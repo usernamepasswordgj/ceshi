@@ -1,13 +1,14 @@
-# Ò»¼¶±êÌâ
-## ¶þ¼¶±êÌâ
+# ä¸€çº§æ ‡é¢˜
+## äºŒçº§æ ‡é¢˜
 
 + PHPStrom
 + TortoiseSVN
 + composer
 + git http://githup.com/
-+ markdown Óï·¨
++ markdown è¯­æ³•
 
 
 ```PHP
 echo phpinfo();
 ```
+
